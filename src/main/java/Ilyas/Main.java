@@ -1,7 +1,6 @@
 
 
 package Ilyas;
-import Ilyas.Runner;
 import Ilyas.compile.Compiler;
 import Ilyas.vm.Machine;
 
