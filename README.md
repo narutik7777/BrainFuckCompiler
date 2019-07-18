@@ -3,4 +3,4 @@ How to use :
 
 mvn clean package
 
-java -jar target/bf.jar  src/resources/helloworld.b
+java -jar target/bf.jar  src\main\java\Ilyas\resources\HelloWorld.b
